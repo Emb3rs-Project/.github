@@ -1,4 +1,7 @@
-## Hi there 👋
+## Emb3rs Project
+
+
+![Dashboard](../images/Emb3rs_dashboard.png)
 
 Links For now :)
 
