@@ -1,13 +1,15 @@
-## Emb3rs Project
+## Emb3rs - Heat and cold matching platform
 
 
 ![Dashboard](/images/Emb3rs_dashboard.png)
 
-Links For now :)
+Find more info on the H2020 project
 
 - [Project Website](https://www.emb3rs.eu)
+
+Follow us
 - [Twitter](https://twitter.com/Emb3rs_project)
-- [linkedIn](https://www.linkedin.com/company/emb3rs)
+- [LinkedIn](https://www.linkedin.com/company/emb3rs)
 - [ResearchGate](https://www.researchgate.net/project/EMB3Rs)
 
 
