@@ -1,7 +1,7 @@
 ## Emb3rs Project
 
 
-![Dashboard](../images/Emb3rs_dashboard.png)
+![Dashboard](/images/Emb3rs_dashboard.png)
 
 Links For now :)
 
