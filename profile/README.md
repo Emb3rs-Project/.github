@@ -36,7 +36,7 @@ Follow us
 - [ResearchGate](https://www.researchgate.net/project/EMB3Rs)
 
 Contact us
-emb3rs@inegi.up.pt
+- emb3rs@inegi.up.pt
 
 
 
