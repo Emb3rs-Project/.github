@@ -41,6 +41,9 @@ Contact us
 emb3rs@inegi.up.pt
 
 
+## Acknowledgments
+
+The EMB3RS project has received funding from the European Union’s Horizon 2020 research and innovation program under grant agreement No 847121. This publication reflects only the views of its authors, and the European Commission cannot be held responsible for its content.
 
 <!--
 
